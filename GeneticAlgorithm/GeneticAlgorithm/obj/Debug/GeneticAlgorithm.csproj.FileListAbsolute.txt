@@ -1,0 +1,10 @@
+c:\users\waguinho\documents\visual studio 2012\Projects\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe.config
+E:\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe.config
+E:\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csprojResolveAssemblyReference.cache
+E:\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Properties.Resources.resources
+E:\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.GenerateResource.Cache
+E:\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe
+E:\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.pdb
+E:\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.exe
+E:\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb
+E:\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.TelaInicial.resources

@@ -1,0 +1,6 @@
+c:\users\waguin\documents\visual studio 2012\Projects\TesteAlgoritmoGenetico\TesteAlgoritmoGenetico\bin\Debug\TesteAlgoritmoGenetico.exe.config
+c:\users\waguin\documents\visual studio 2012\Projects\TesteAlgoritmoGenetico\TesteAlgoritmoGenetico\bin\Debug\TesteAlgoritmoGenetico.exe
+c:\users\waguin\documents\visual studio 2012\Projects\TesteAlgoritmoGenetico\TesteAlgoritmoGenetico\bin\Debug\TesteAlgoritmoGenetico.pdb
+c:\users\waguin\documents\visual studio 2012\Projects\TesteAlgoritmoGenetico\TesteAlgoritmoGenetico\obj\Debug\TesteAlgoritmoGenetico.csprojResolveAssemblyReference.cache
+c:\users\waguin\documents\visual studio 2012\Projects\TesteAlgoritmoGenetico\TesteAlgoritmoGenetico\obj\Debug\TesteAlgoritmoGenetico.exe
+c:\users\waguin\documents\visual studio 2012\Projects\TesteAlgoritmoGenetico\TesteAlgoritmoGenetico\obj\Debug\TesteAlgoritmoGenetico.pdb
